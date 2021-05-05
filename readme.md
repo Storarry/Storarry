@@ -9,5 +9,5 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I cry in the bath.
 
-
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=woxlayy&&show_icons=true&theme=merko">
